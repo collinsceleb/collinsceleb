@@ -2,15 +2,16 @@
 
 **Full-Stack Software Engineer** building scalable, reliable, and maintainable applications with strong architectural patterns and modern technologies.
 
-I enjoy solving complex problems, building systems that scale, and delivering high-quality code that drives real value. :contentReference[oaicite:1]{index=1}
+I enjoy solving complex problems, building systems that scale, and delivering high-quality code that drives real value.
 
 ---
 
 ## 🔭 What I Do
 
-- Design and develop backend systems using **NestJS, Node.js, and TypeScript**  
+- Design and develop backend systems using **NestJS, Node.js, and TypeScript, Java, ExpressJS, SpringBoot**  
 - Build scalable APIs with **PostgreSQL, Prisma/TypeORM, Redis, and AWS**  
-- Create full-stack applications with **React & Next.js**  
+- Create full-stack applications with **React & Next.js**
+- Develop mobile application with **Kotlin & Flutter**  
 - Integrate real-world services like **Cloudinary, Paystack, SendGrid**  
 - Implement authentication, RBAC, and secure architecture patterns  
 - Cloud-ready deployments with **Docker & AWS**
