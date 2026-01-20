@@ -75,6 +75,6 @@ Backend solution for device loans and lifecycle management, including enrollment
 
 ## 📫 Contact
 
-- 🔗 LinkedIn: [Your Profile](https://www.linkedin.com)
-- ✉️ Email: your.email@example.com
-- 🌐 Portfolio: https://kolawoleafuye.dev :contentReference[oaicite:6]{index=6}
+- 🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/kolawole-afuye)
+- ✉️ Email: kolawole.afuye@gmail.com
+- 🌐 Portfolio: https://kolawoleafuye.dev
