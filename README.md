@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm **Kolawole Afuye**
 
-<!--
-**collinsceleb/collinsceleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Software Engineer** building scalable, reliable, and maintainable applications with strong architectural patterns and modern technologies.
 
-Here are some ideas to get you started:
+I enjoy solving complex problems, building systems that scale, and delivering high-quality code that drives real value. :contentReference[oaicite:1]{index=1}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I Do
+
+- Design and develop backend systems using **NestJS, Node.js, and TypeScript**  
+- Build scalable APIs with **PostgreSQL, Prisma/TypeORM, Redis, and AWS**  
+- Create full-stack applications with **React & Next.js**  
+- Integrate real-world services like **Cloudinary, Paystack, SendGrid**  
+- Implement authentication, RBAC, and secure architecture patterns  
+- Cloud-ready deployments with **Docker & AWS**
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:**  
+JavaScript, TypeScript, SQL, Java  
+
+**Backend / Server:**  
+NestJS, Node.js, Express.js, Spring Boot  
+
+**Databases & Storage:**  
+PostgreSQL, MySQL, MongoDB, Redis  
+
+**Cloud / DevOps:**  
+AWS, Docker  
+
+**Frontend:**  
+React, Next.js  
+
+**Tools & Services:**  
+Prisma, TypeORM, Firebase, Cloudinary, SendGrid, Paystack :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **High-Net-Worth Investment Platform**  
+A backend-focused infrastructure for a private investment platform — secure payments, inventory management, and modular API design.  
+**Stack:** NestJS, PostgreSQL, Prisma, Paystack, AWS. :contentReference[oaicite:3]{index=3}
+
+👉 [View on Website / GitHub](#)
+
+---
+
+### 🔹 **Wallet System**  
+A simple yet solid wallet backend with balance tracking and basic funds operations.  
+**Stack:** NestJS, PostgreSQL, TypeORM. :contentReference[oaicite:4]{index=4}
+
+👉 [View on Website / GitHub](#)
+
+---
+
+### 🔹 **Device Financing Platform**  
+Backend solution for device loans and lifecycle management, including enrollment workflows and payment flows.  
+**Stack:** NestJS, PostgreSQL, AWS, Cloudinary, Paystack. :contentReference[oaicite:5]{index=5}
+
+👉 [View on Website / GitHub](#)
+
+---
+
+## 📈 What I’m Learning
+
+- Advanced **distributed systems patterns**  
+- Event-driven architecture (queues, microservices)  
+- Performance optimization and caching strategies
+
+---
+
+## 📫 Contact
+
+- 🔗 LinkedIn: [Your Profile](https://www.linkedin.com)
+- ✉️ Email: your.email@example.com
+- 🌐 Portfolio: https://kolawoleafuye.dev :contentReference[oaicite:6]{index=6}
